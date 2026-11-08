@@ -1,0 +1,12 @@
+{
+  "name": "fieldservice-multiplayer-room",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "example": "node src/dispatch-room.ts",
+    "test": "node src/dispatch-room.test.ts"
+  },
+  "dependencies": {
+    "zod": "^3.23.8"
+  }
+}
